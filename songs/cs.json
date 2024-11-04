@@ -1,0 +1,22 @@
+{
+    "title": "Happy Hits!",
+    "description": "Hits to boost your mood and fill with happiness",
+    "tracks": [
+      {
+        "name": "Baarish Mein Tum - Neha Kakkar.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Chaleya (From _Jawan_) - Anirudh Ravichander.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Raataan Lambiyan (From _Shershaah_) - Tanishk Bagchi.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      }
+    ]
+  }
+  

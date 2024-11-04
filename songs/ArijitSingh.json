@@ -1,0 +1,17 @@
+{
+    "title": "Arijit Singh Radio",
+    "description": "With Neha Kakkar,Pritam,KK and more",
+    "tracks": [
+      {
+        "name": "Khairiyat (Bonus Track) - Pritam.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Mast Magan (From _2 States_) - Arijit Singh.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      }
+    ]
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "title": "Pop Right Now",
+    "description": "Most interesting tracks in the world of music",
+    "tracks": [
+      {
+        "name": "Dandelions - Ruth B..mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "DOWN (Juicy Juicy) - JO YURI.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Espresso - Sabrina Carpenter.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "favorite - english - Isabel LaRosa.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Play Date - Melanie Martinez.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Smart - LE SSERAFIM.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      },
+      {
+        "name": "Step on up x Gimme More - Tiktok Remix - ROEINON.mp3",
+        "cover": "cover.jpg",
+        "info": "info.json"
+      }
+    ]
+  }
+  

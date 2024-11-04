@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="120" height="120">
+  <!-- Circular background with padding -->
+  <circle cx="12" cy="12" r="10" fill="#1ed760" />
+
+  <!-- Black SVG path with padding -->
+  <path d="m8.55 5.606 9.49 5.788a.7.7 0 0 1 0 1.212L8.55 18.394A.7.7 0 0 1 7.5 17.788V6.212a.7.7 0 0 1 1.05-.606z" fill="black" />
+</svg>
